@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5BBBCB36-8D79-4F38-85CC-FC35954E3EB0}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{5BBBCB36-8D79-4F38-85CC-FC35954E3EB0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Hug_and_kill" ID="{A785DBDD-8BEA-453C-8D1A-4589AD8F8ED7}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Event>
+				<Event Name="Nasty_Nasty_Spell" ID="{4D4EFE0D-59E7-4716-8ED0-CF41ED34979A}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="1"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Event>
+				<Event Name="First_Town" ID="{37D59C08-F6B4-4301-8DA1-1097E89A899A}">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
